@@ -1,6 +1,6 @@
 # 🌀 **Multiverse 2025: The Hack Club SuperLeader Summit**  
 
-We’re bringing together a group of ~75 committed Hack Club Leaders (will be referred to as “SuperLeaders” from this point onwards) to a 8-week opportunity to build and prototype a collaborative and technical full club YSWS, Club project, or workshop. Once planned and run at a meeting, SuperLeaders will be eligible for travel stipends to come to San Francisco for a 3-day gathering & hackathon where they can work together to get feedback and build their final resource, publishing it to the entire Clubs community.
+We’re bringing together a group of ~75 committed Hack Club Leaders to a 8-week opportunity to build and prototype a collaborative and technical full club YSWS, Club project, or workshop. Once planned and run at a meeting, SuperLeaders will be eligible for travel stipends to come to San Francisco for a 3-day gathering & hackathon where they can work together to get feedback and build their final resource, publishing it to the entire Clubs community.
 
 📍 **San Francisco, CA**  
 📆 **March 28 - March 30, 2025**
