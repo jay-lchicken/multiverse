@@ -47,8 +47,8 @@ Then, **make a PR** and help restore balance to the Multiverse!
 
 | Year | Project | Description |  
 |------|---------|-------------|  
-| 2025 | **[Multiverse](https://multiverse.hackclub.com)** | _This repo!_ |  
-| 2024 | **[The Summit](https://summit.hackclub.com)** | A superhero-style gathering of Hack Club leaders. |  
+| 2025 | **[Multiverse](https://multiverse.hackclub.com)** | _This event!_ |  
+| 2024 | **[The Summit](https://summit.hackclub.com)** | A gathering of Hack Club leaders in SF. |  
 | 2023 | **[Epoch](https://epoch.hackclub.com)** | A New Year's hacking adventure in New Delhi. |  
 | 2022 | **[Assemble](https://assemble.hackclub.com)** | The first high school hackathon since the pandemic! |  
 
