@@ -9,7 +9,7 @@ In the next 8 weeks, **SuperLeaders** must **create a prototype**—a **YSWS, wo
 
 ### 🚀 **At Mission Control**  
 
-Upon arrival, Hack Club Super Leaders will form teams to further **develop, enhance, and battle-test their prototypes, preparing their projects for real-world action.  
+Upon arrival, Hack Club Super Leaders will form teams to further develop, enhance, and battle-test their prototypes, preparing their projects for real-world action.  
 
 On the final day, leaders will **submit their final prototypes to GitHub, locking them into the Multiverse’s Codex.** Their work won’t just **stop Heidi’s chaos**—it will **empower Hack Clubbers across the world** to build better, stronger workshops and projects.  
 
