@@ -1,17 +1,20 @@
 # 🌀 **Multiverse 2025: The Hack Club SuperLeader Summit**  
 
-We’re bringing together a group of ~75 committed Hack Club Leaders to a 8-week opportunity to build and prototype a collaborative and technical full club YSWS, Club project, or workshop. Once planned and run at a meeting, SuperLeaders will be eligible for travel stipends to come to San Francisco for a 3-day gathering & hackathon where they can work together to get feedback and build their final resource, publishing it to the entire Clubs community.
+We’re bringing together a group of committed Hack Club Leaders to a 8-week opportunity to build and prototype a collaborative and technical full club YSWS, Club project, or workshop. Once planned and run at a meeting, SuperLeaders will be eligible for travel stipends to come to San Francisco for a 3-day gathering & hackathon where they can work together to get feedback and build their final resource, publishing it to the entire Clubs community.
 
 📍 **San Francisco, CA**  
-📆 **March 28 - March 30, 2025**
+📆 **March 29 - March 31, 2025**
 
 In the next 8 weeks, **SuperLeaders** must **create a prototype**—a **YSWS, workshop, or club project**—and **test it in their own club** before arriving at the event. They will **gather feedback, refine their work, and document their process** in a project submission.  
 
+What makes a good club project? Here are a few examples:
+- link
+- link
+- link
+
 ### 🚀 **At Mission Control**  
 
-Upon arrival, Hack Club Super Leaders will form teams to further develop, enhance, and battle-test their prototypes, preparing their projects for real-world action.  
-
-On the final day, leaders will **submit their final prototypes to GitHub, locking them into the Multiverse’s Codex.** Their work won’t just **stop Heidi’s chaos**—it will **empower Hack Clubbers across the world** to build better, stronger workshops and projects.  
+Upon arrival, Hack Club Super Leaders will form teams to further develop their prototypes, preparing their projects for real-world action. On the final day, leaders will ship their projects to GitHub, locking them into the Multiverse’s Codex. Their work will empower Hack Clubbers across the world to build better, stronger workshops and projects.  
 
 
 ## **🦸 Who Can Join?**  
